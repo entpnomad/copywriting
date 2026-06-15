@@ -1,5 +1,7 @@
 # copywriting
 
+🌐 [English](README.md) | [Español](README.es.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Deutsch](README.de.md)
+
 A Claude Code skill that helps you write copy that can't be copied — headlines, taglines, hooks, value propositions, ad copy, landing pages, and newsletters — using a concrete, falsifiable, ownable method.
 
 ## Companion Skill
