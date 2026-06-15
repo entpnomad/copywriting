@@ -26,15 +26,15 @@ Trois non, tu as écrit de la camelote. Trois oui, tu tiens quelque chose.
 
 ## Ce qu'il contient
 
-- Le test des 3 phrases et le test des 2 secondes ("One Mississippi")
+- Le test des 3 phrases et le test des 2 secondes
 - Concret > abstrait : l'exercice du zoom ("regain fitness" → "Couch to 5K")
 - Un copy vérifiable : montre, ne parle pas — des faits plutôt que des adjectifs
 - Le processus à qui → quoi → comment (de l'attitude actuelle à l'attitude désirée)
 - Le conflit comme moteur (approches / croyances / concurrents)
 - Positionnement : qu'est-ce que tu remplaces, que peux-tu faire que personne d'autre
-- Réécrire jusqu'au simple : la loi des mots de Kaplan, le test du paragraphe, écrire des versions
+- Réécrire jusqu'au simple : couper chaque mot inutile, le test du paragraphe, écrire des versions
 - Copy et design ne font qu'un — écris dans le médium
-- L'artisanat de la newsletter, et un exemple complet en 25 réécritures
+- L'artisanat de la newsletter, et un exemple de réécriture
 
 ## Installation
 

@@ -26,15 +26,15 @@ Tre no, hai scritto spazzatura. Tre sì, sei sulla strada giusta.
 
 ## Cosa contiene
 
-- Il test delle 3 frasi e il test dei 2 secondi ("One Mississippi")
+- Il test delle 3 frasi e il test dei 2 secondi
 - Concreto > astratto: l'esercizio dello zoom ("regain fitness" → "Couch to 5K")
 - Copy verificabile: indica, non parlare — fatti invece di aggettivi
 - Il processo a chi → cosa → come (dall'atteggiamento attuale a quello desiderato)
 - Il conflitto come motore (approcci / convinzioni / concorrenti)
 - Posizionamento: cosa sostituisci, cosa puoi fare che nessun altro
-- Riscrivere fino al semplice: la legge delle parole di Kaplan, il test del paragrafo, scrivere versioni
+- Riscrivere fino al semplice: tagliare ogni parola che non lavora, il test del paragrafo, scrivere versioni
 - Copy e design come una cosa sola — scrivi nel mezzo
-- Il mestiere della newsletter, e un esempio completo di 25 riscritture
+- Il mestiere della newsletter, e un esempio di riscrittura
 
 ## Installazione
 

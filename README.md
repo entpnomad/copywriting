@@ -26,15 +26,15 @@ Three nos, you've written rubbish. Three yeses, you're onto something.
 
 ## What's inside
 
-- The 3-line test and the 2-second ("One Mississippi") test
+- The 3-line test and the 2-second test
 - Concrete > abstract: the zoom-in drill ("regain fitness" → "Couch to 5K")
 - Falsifiable copy: point, don't talk — facts over adjectives
 - The who → what → how process (current attitude to desired attitude)
 - Conflict as the engine (approaches / beliefs / competitors)
 - Positioning: what do you replace, what can nobody else do
-- Rewrite-to-simple: Kaplan's law of words, the paragraph test, writing versions
+- Rewrite-to-simple: cut every word that isn't working, the paragraph test, writing versions
 - Copy and design as one thing — write in the medium
-- Newsletter craft, and a full 25-rewrite worked example
+- Newsletter craft, and a worked rewrite example
 
 ## Install
 

@@ -26,15 +26,15 @@ Tres naos, escreveste lixo. Tres sins, estas no caminho certo.
 
 ## O que contem
 
-- O teste das 3 frases e o teste dos 2 segundos ("One Mississippi")
+- O teste das 3 frases e o teste dos 2 segundos
 - Concreto > abstrato: o exercicio de zoom ("regain fitness" → "Couch to 5K")
 - Copy verificavel: aponta, nao fales — factos em vez de adjetivos
 - O processo a quem → o que → como (da atitude atual a desejada)
 - O conflito como motor (abordagens / crencas / concorrentes)
 - Posicionamento: o que substituis, o que podes fazer que mais ninguem
-- Reescrever ate ao simples: a lei das palavras de Kaplan, o teste do paragrafo, escrever versoes
+- Reescrever ate ao simples: cortar toda palavra que nao trabalha, o teste do paragrafo, escrever versoes
 - Copy e design como uma so coisa — escreve no meio
-- O oficio da newsletter, e um exemplo completo de 25 reescritas
+- O oficio da newsletter, e um exemplo de reescrita
 
 ## Instalacao
 

@@ -26,15 +26,15 @@ Drei Nein, du hast Mist geschrieben. Drei Ja, du bist auf etwas gestossen.
 
 ## Was drin ist
 
-- Der 3-Satz-Test und der 2-Sekunden-Test ("One Mississippi")
+- Der 3-Satz-Test und der 2-Sekunden-Test
 - Konkret > abstrakt: die Zoom-Uebung ("regain fitness" → "Couch to 5K")
 - Ueberpruefbare Copy: zeig, statt zu reden — Fakten statt Adjektive
 - Der Prozess wer → was → wie (von der aktuellen zur gewuenschten Haltung)
 - Konflikt als Motor (Ansaetze / Ueberzeugungen / Konkurrenten)
 - Positionierung: was ersetzt du, was kannst du, das sonst niemand kann
-- Umschreiben bis zum Einfachen: Kaplans Gesetz der Worte, der Absatz-Test, Versionen schreiben
+- Umschreiben bis zum Einfachen: jedes Wort streichen das nicht arbeitet, der Absatz-Test, Versionen schreiben
 - Copy und Design als eins — schreib im Medium
-- Newsletter-Handwerk, und ein vollstaendiges Beispiel mit 25 Umschreibungen
+- Newsletter-Handwerk, und ein durchgespieltes Umschreib-Beispiel
 
 ## Installation
 

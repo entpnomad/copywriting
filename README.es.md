@@ -26,15 +26,15 @@ Tres noes, escribiste basura. Tres síes, vas por buen camino.
 
 ## Qué contiene
 
-- El test de 3 líneas y el test de 2 segundos ("One Mississippi")
+- El test de 3 líneas y el test de 2 segundos
 - Concreto > abstracto: el ejercicio de zoom ("regain fitness" → "Couch to 5K")
 - Copy verificable: señala, no hables — hechos en vez de adjetivos
 - El proceso a quién → qué → cómo (de la actitud actual a la deseada)
 - El conflicto como motor (enfoques / creencias / competidores)
 - Posicionamiento: a qué reemplazas, qué puedes hacer que nadie más
-- Reescribir hasta lo simple: la ley de las palabras de Kaplan, el test del párrafo, escribir versiones
+- Reescribir hasta lo simple: cortar toda palabra que no trabaja, el test del párrafo, escribir versiones
 - Copy y diseño como una sola cosa — escribe en el medio
-- Oficio del newsletter, y un ejemplo completo de 25 reescrituras
+- Oficio del newsletter, y un ejemplo de reescritura
 
 ## Instalación
 
