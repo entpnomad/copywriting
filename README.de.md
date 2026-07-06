@@ -2,7 +2,7 @@
 
 🌐 [English](README.md) | [Español](README.es.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Deutsch](README.de.md)
 
-Ein Claude Code Skill, der dir hilft, Copy zu schreiben, die niemand kopieren kann — Headlines, Slogans, Hooks, Wertversprechen, Anzeigen, Landing Pages und Newsletter — mit einer konkreten, ueberpruefbaren und unverwechselbaren Methode.
+Ein Claude Code Skill, der dir hilft, Copy zu schreiben, die niemand kopieren kann — Headlines, Slogans, Hooks, Wertversprechen, Anzeigen, Landing Pages, LinkedIn-Posts und Newsletter — mit einer konkreten, ueberpruefbaren und unverwechselbaren Methode.
 
 ## Begleit-Skill
 
@@ -35,6 +35,7 @@ Drei Nein, du hast Mist geschrieben. Drei Ja, du bist auf etwas gestossen.
 - Umschreiben bis zum Einfachen: jedes Wort streichen das nicht arbeitet, der Absatz-Test, Versionen schreiben
 - Copy und Design als eins — schreib im Medium
 - Newsletter-Handwerk, und ein durchgespieltes Umschreib-Beispiel
+- Struktur fuer Kurzposts (LinkedIn, kurze Newsletter): Hook, Body als Pfeil-Bullets, Fazit in einer Zeile, CTA
 
 ## Installation
 

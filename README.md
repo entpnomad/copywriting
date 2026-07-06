@@ -2,7 +2,7 @@
 
 🌐 [English](README.md) | [Español](README.es.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Deutsch](README.de.md)
 
-A Claude Code skill that helps you write copy that can't be copied — headlines, taglines, hooks, value propositions, ad copy, landing pages, and newsletters — using a concrete, falsifiable, ownable method.
+A Claude Code skill that helps you write copy that can't be copied — headlines, taglines, hooks, value propositions, ad copy, landing pages, LinkedIn posts, and newsletters — using a concrete, falsifiable, ownable method.
 
 ## Companion Skill
 
@@ -35,6 +35,7 @@ Three nos, you've written rubbish. Three yeses, you're onto something.
 - Rewrite-to-simple: cut every word that isn't working, the paragraph test, writing versions
 - Copy and design as one thing — write in the medium
 - Newsletter craft, and a worked rewrite example
+- Short-form post structure (LinkedIn, short newsletters): hook, arrow-bullet body, one-line bold takeaway, CTA
 
 ## Install
 

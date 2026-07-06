@@ -2,7 +2,7 @@
 
 🌐 [English](README.md) | [Español](README.es.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Deutsch](README.de.md)
 
-Um skill Claude Code que te ajuda a escrever copy que ninguem pode copiar — titulos, slogans, ganchos, propostas de valor, anuncios, landing pages e newsletters — com um metodo concreto, verificavel e inimitavel.
+Um skill Claude Code que te ajuda a escrever copy que ninguem pode copiar — titulos, slogans, ganchos, propostas de valor, anuncios, landing pages, posts no LinkedIn e newsletters — com um metodo concreto, verificavel e inimitavel.
 
 ## Skill complementar
 
@@ -35,6 +35,7 @@ Tres naos, escreveste lixo. Tres sins, estas no caminho certo.
 - Reescrever ate ao simples: cortar toda palavra que nao trabalha, o teste do paragrafo, escrever versoes
 - Copy e design como uma so coisa — escreve no meio
 - O oficio da newsletter, e um exemplo de reescrita
+- Estrutura de posts curtos (LinkedIn, newsletters curtas): gancho, corpo em bullets com setas, remate numa linha, CTA
 
 ## Instalacao
 

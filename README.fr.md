@@ -2,7 +2,7 @@
 
 🌐 [English](README.md) | [Español](README.es.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Deutsch](README.de.md)
 
-Un skill Claude Code qui t'aide à écrire un copy qu'on ne peut pas copier — titres, slogans, accroches, propositions de valeur, publicités, landing pages et newsletters — avec une méthode concrète, vérifiable et unique.
+Un skill Claude Code qui t'aide à écrire un copy qu'on ne peut pas copier — titres, slogans, accroches, propositions de valeur, publicités, landing pages, posts LinkedIn et newsletters — avec une méthode concrète, vérifiable et unique.
 
 ## Skill complémentaire
 
@@ -35,6 +35,7 @@ Trois non, tu as écrit de la camelote. Trois oui, tu tiens quelque chose.
 - Réécrire jusqu'au simple : couper chaque mot inutile, le test du paragraphe, écrire des versions
 - Copy et design ne font qu'un — écris dans le médium
 - L'artisanat de la newsletter, et un exemple de réécriture
+- Structure des posts courts (LinkedIn, newsletters courtes) : accroche, corps en puces fléchées, chute en une ligne, CTA
 
 ## Installation
 

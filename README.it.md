@@ -2,7 +2,7 @@
 
 🌐 [English](README.md) | [Español](README.es.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [Deutsch](README.de.md)
 
-Uno skill Claude Code che ti aiuta a scrivere copy che non si può copiare — titoli, slogan, hook, proposte di valore, annunci, landing page e newsletter — con un metodo concreto, verificabile e inimitabile.
+Uno skill Claude Code che ti aiuta a scrivere copy che non si può copiare — titoli, slogan, hook, proposte di valore, annunci, landing page, post LinkedIn e newsletter — con un metodo concreto, verificabile e inimitabile.
 
 ## Skill complementare
 
@@ -35,6 +35,7 @@ Tre no, hai scritto spazzatura. Tre sì, sei sulla strada giusta.
 - Riscrivere fino al semplice: tagliare ogni parola che non lavora, il test del paragrafo, scrivere versioni
 - Copy e design come una cosa sola — scrivi nel mezzo
 - Il mestiere della newsletter, e un esempio di riscrittura
+- Struttura dei post brevi (LinkedIn, newsletter brevi): hook, corpo a elenco con frecce, chiusura in una riga, CTA
 
 ## Installazione
 
